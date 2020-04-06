@@ -13,7 +13,8 @@
 		04C56925243BBB7700D3E83A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C56923243BBB7700D3E83A /* Main.storyboard */; };
 		04C56927243BBB7A00D3E83A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C56926243BBB7A00D3E83A /* Assets.xcassets */; };
 		04C5692A243BBB7A00D3E83A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C56928243BBB7A00D3E83A /* LaunchScreen.storyboard */; };
-		04C56932243BC3B400D3E83A /* onesyllable.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04C56931243BC3B400D3E83A /* onesyllable.txt */; };
+		04C56932243BC3B400D3E83A /* small_dict.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04C56931243BC3B400D3E83A /* small_dict.txt */; };
+		04C56934243BDF0C00D3E83A /* big_dict.txt in Resources */ = {isa = PBXBuildFile; fileRef = 04C56933243BDF0C00D3E83A /* big_dict.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +26,8 @@
 		04C56926243BBB7A00D3E83A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04C56929243BBB7A00D3E83A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04C5692B243BBB7A00D3E83A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		04C56931243BC3B400D3E83A /* onesyllable.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = onesyllable.txt; sourceTree = "<group>"; };
+		04C56931243BC3B400D3E83A /* small_dict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = small_dict.txt; sourceTree = "<group>"; };
+		04C56933243BDF0C00D3E83A /* big_dict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = big_dict.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +64,8 @@
 				04C5691F243BBB7700D3E83A /* SceneDelegate.swift */,
 				04C56921243BBB7700D3E83A /* ViewController.swift */,
 				04C56923243BBB7700D3E83A /* Main.storyboard */,
-				04C56931243BC3B400D3E83A /* onesyllable.txt */,
+				04C56931243BC3B400D3E83A /* small_dict.txt */,
+				04C56933243BDF0C00D3E83A /* big_dict.txt */,
 				04C56926243BBB7A00D3E83A /* Assets.xcassets */,
 				04C56928243BBB7A00D3E83A /* LaunchScreen.storyboard */,
 				04C5692B243BBB7A00D3E83A /* Info.plist */,
@@ -131,7 +134,8 @@
 				04C5692A243BBB7A00D3E83A /* LaunchScreen.storyboard in Resources */,
 				04C56927243BBB7A00D3E83A /* Assets.xcassets in Resources */,
 				04C56925243BBB7700D3E83A /* Main.storyboard in Resources */,
-				04C56932243BC3B400D3E83A /* onesyllable.txt in Resources */,
+				04C56932243BC3B400D3E83A /* small_dict.txt in Resources */,
+				04C56934243BDF0C00D3E83A /* big_dict.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

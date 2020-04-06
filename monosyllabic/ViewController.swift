@@ -45,7 +45,7 @@ class ViewController: UIViewController {
         var arrayOfWords = [String]()
         
         //load array from txt file
-        if let wordDictURL = Bundle.main.url(forResource: "onesyllable", withExtension: "txt") {
+        if let wordDictURL = Bundle.main.url(forResource: "big_dict", withExtension: "txt") {
             if let wordDict = try? String(contentsOf: wordDictURL) {
                 arrayOfWords = wordDict.components(separatedBy: "\n")
             }
